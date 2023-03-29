@@ -4777,6 +4777,7 @@
       "pack_expression"
     ]
   ],
+  "precedences": [],
   "externals": [],
   "inline": [],
   "supertypes": [

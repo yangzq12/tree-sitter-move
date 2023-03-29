@@ -6,7 +6,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "main": "index.js",
+  "main": "bindings/node",
   "scripts": {
     "build": "tree-sitter generate",
     "test": "tree-sitter test",
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "standard-version": "^8.0.0",
-    "tree-sitter-cli": "^0.16.5"
+    "tree-sitter-cli": "^0.19.0"
   },
   "tree-sitter": [
     {
